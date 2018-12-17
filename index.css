@@ -6,8 +6,7 @@ h1{
     color: #34495e;
 }
 
-.form,
-.greetings{
+.form{
     display: none;
 }
 
